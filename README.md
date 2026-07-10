@@ -62,4 +62,4 @@ php artisan serve
 
 実際の動作の様子です（約1分）
 
-https://youtu.be/あなたのURL
+https://youtu.be/qn-GblWlZdA

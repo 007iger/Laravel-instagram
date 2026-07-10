@@ -58,3 +58,8 @@ php artisan key:generate
 php artisan migrate
 php artisan serve
 ```
+## デモ動画
+
+実際の動作の様子です（約1分）
+
+https://youtu.be/あなたのURL
